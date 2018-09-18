@@ -1,0 +1,9 @@
+{
+  "0x11c4469D974F8Af5ba9ec99F3c42C07C848C861c": {
+    "name": "DopeRaider",
+    "logo": "DopeRaider.png",
+    "erc20": true,
+    "symbol": "DOPR",
+    "decimals": 0
+  }
+}

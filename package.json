@@ -1,0 +1,28 @@
+{
+  "name": "poa-contract-metadata",
+  "version": "1.0.0",
+  "description": "A mapping of POA contract addresses to broadly accepted icons for those addresses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/poanetwork/poa-contract-metadata.git"
+  },
+  "keywords": [
+    "ethereum",
+    "contract",
+    "icons"
+  ],
+  "author": "POA Network",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poanetwork/poa-contract-metadata/issues"
+  },
+  "homepage": "https://github.com/poanetwork/poa-contract-metadata#readme",
+  "devDependencies": {
+    "ethereumjs-util": "^5.1.1",
+    "tape": "^4.6.3"
+  }
+}
