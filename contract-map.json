@@ -5,5 +5,12 @@
     "erc20": true,
     "symbol": "DOPR",
     "decimals": 0
+  },
+  "0x051c663523de8b7b22849338eb4faa62f37a8979": {
+    "name": "EverDragons",
+    "logo": "EverDragons.png",
+    "erc20": true,
+    "symbol": "ED",
+    "decimals": 0
   }
 }
