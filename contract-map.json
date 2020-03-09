@@ -12,5 +12,12 @@
     "erc20": true,
     "symbol": "ED",
     "decimals": 0
+  },
+  "0xAb2f2Dd3120dE530d38936EE09A74a6d17e3Da44": {
+    "name": "GeonCoin",
+    "logo": "Geon.png",
+    "erc20": true,
+    "symbol": "GC",
+    "decimals": 18
   }
 }
